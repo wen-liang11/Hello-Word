@@ -1,3 +1,3 @@
 # Hello-Word
 Practice
-Hi, I like fishing.
+Hi, I'm W.
